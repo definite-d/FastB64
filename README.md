@@ -1,21 +1,5 @@
 # FastB64
 
-`     ::::::::::  :::     ::::::::::::::::::::::::::::  ::::::::     :::`
-
-`     :+:       :+: :+:  :+:    :+:   :+:    :+:    :+::+:    :+:   :+:`
-
-`    +:+      +:+   +:+ +:+          +:+    +:+    +:++:+         +:+ +:+`
-
-`   :#::+::#+#++:++#++:+#++:++#++   +#+    +#++:++#+ +#++:++#+  +#+  +:+`
-
-`  +#+     +#+     +#+       +#+   +#+    +#+    +#++#+    +#++#+#+#+#+#+`
-
-` #+#     #+#     #+##+#    #+#   #+#    #+#    #+##+#    #+#      #+#`
-
-`###     ###     ### ########    ###    #########  ########       ###`
-
-(I don't think Markdown is friendly with Figlet output.)
-
 A small Python utility for transforming/encoding binary files or text into Base64 codes.
 
 It's handy for those times when you just gotta have the output, instead of manually programming a function to get the output.
