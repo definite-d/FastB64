@@ -1,0 +1,1 @@
+pyinstaller --onefile --clean --windowed --icon=Fast_Logo.ico FastB64.py
